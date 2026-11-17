@@ -4,7 +4,7 @@
 
 **Program:** Synent Technologies - Data Science Internship (Task 3)
 
-**Demo video:** <paste your video link>
+**Demo video:** https://youtu.be/HrEQ1YUMR74
 
 ## Problem Statement
 Explore the Netflix catalogue to identify trends and patterns in what content is available, where it comes from and how it has changed over time, using summary statistics, correlation analysis and graphs.
